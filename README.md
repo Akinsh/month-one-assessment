@@ -1,23 +1,6 @@
 TechCorp AWS Infrastructure Deployment
 This Terraform configuration deploys a highly available web application infrastructure on AWS with secure network architecture and load balancing capabilities.
 
-Table of Contents
-Project Overview
-
-Architecture
-
-Prerequisites
-
-Infrastructure Components
-
-Deployment Steps
-
-Accessing the Infrastructure
-
-Verification
-
-Cleanup Instructions
-
 Project Overview
 This infrastructure implements a production-ready AWS environment for TechCorp's web application with:
 
