@@ -198,6 +198,7 @@ Clean local files:
 
 bash
 rm -rf .terraform terraform.tfstate* deployment-outputs.txt
+
 File Structure
 text
 terraform-assessment/
@@ -209,6 +210,7 @@ terraform-assessment/
 │   ├── web_server_setup.sh # Apache installation script
 │   └── db_server_setup.sh  # PostgreSQL installation script
 └── README.md              # This documentation
+
 Security Notes
 Bastion host only accessible from your specified IP
 
