@@ -1,0 +1,28 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+.terraform/
+*.terraform.lock.hcl
+terraform.tfstate.d/
+
+# Terraform variables
+terraform.tfvars
+*.auto.tfvars
+
+# SSH keys
+*.pem
+*.ppk
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
